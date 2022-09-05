@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello,hot-fix");
         System.out.println("hello,push project");
         System.out.println("hello,pull project");
+        System.out.println("2022.09.05");
     }
 }
